@@ -8,6 +8,8 @@ Private Modpack for the FreshStartSMP
 
 [Latest Release](https://github.com/cwbon1/freshstartsmp/releases/latest)
 
+[Modrinth Page](https://modrinth.com/modpack/freshstartsmp)
+
 ### Please note that **NO** source code is published here as we don't have any source code.
 
 ## Installation
