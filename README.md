@@ -6,14 +6,14 @@ Private Modpack for the FreshStartSMP
 
 [Mod suggestion form](https://forms.gle/zFe5EgqC99U8Ey9W9)
 
-[Latest Release](https://github.com/cwbon1/freshstartsmp/releases/latest)
+[Latest Release](https://github.com/Charl1e39/freshstartsmp/releases/latest)
 
 [Modrinth Page](https://modrinth.com/modpack/freshstartsmp)
 
 ### Please note that **NO** source code is published here as we don't have any source code.
 
 ## Installation
-Please read the [Wiki](https://github.com/cwbon1/freshstartsmp/wiki) for the installation guide (just cleaning up the README.md, sorry)
+Please read the [Wiki](https://github.com/Charl1e39/freshstartsmp/wiki) for the installation guide (just cleaning up the README.md, sorry)
 
 ## Issues
-If any issues arise while using Prism Launcher, please open an [issue](https://github.com/cwbon1/freshstartsmp/issues/new).
+If any issues arise while using Prism Launcher, please open an [issue](https://github.com/Charl1e39/freshstartsmp/issues/new).
