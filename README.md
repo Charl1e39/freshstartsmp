@@ -2,7 +2,7 @@
 Private Modpack for the FreshStartSMP
 
 ## Links:
-[Discord](https://discord.gg/Fq7en6hgm5)
+[Discord](https://discord.gg/bb8PZD77Ze)
 
 [Mod suggestion form](https://forms.gle/zFe5EgqC99U8Ey9W9)
 
