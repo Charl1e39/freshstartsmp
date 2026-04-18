@@ -1,4 +1,5 @@
 - \.connector (\.connector)
+- [AppleSkin](https://modrinth.com/mod/EsAfCjCV) [2\.5\.1\+mc1\.20\.1] by squeek (appleskin\-forge\-mc1\.20\.1\-2\.5\.1\.jar)
 - [Architectury](https://modrinth.com/mod/lhGA9TYQ) [9\.2\.14] by shedaniel (architectury\-9\.2\.14\-forge\.jar)
 - [Carry On](https://modrinth.com/mod/joEfVgkn) [2\.1\.2\.7] by Tschipp, Purplicious\_Cow, cy4n (carryon\-forge\-1\.20\.1\-2\.1\.2\.7\.jar)
 - [CarryOnExtend](https://modrinth.com/mod/JbqjOoQj) [1\.4\.2] by LirxOwO (CarryOnExtend\-1\.4\.2\-1\.20\.1\-Forge\.jar)
@@ -23,6 +24,7 @@
 - [DragonLib](https://modrinth.com/mod/sbIsGaOV) [1\.20\.1\-beta\-3\.0\.21] by MrJulsen (dragonlib\-forge\-1\.20\.1\-beta\-3\.0\.21\.jar)
 - [Embeddium](https://modrinth.com/mod/sk9rgfiA) [0\.3\.31\+mc1\.20\.1] by embeddedt (embeddium\-0\.3\.31\+mc1\.20\.1\.jar)
 - [EntityCulling](https://modrinth.com/mod/NNAgCjsB) [1\.9\.5] by tr7zw (entityculling\-forge\-1\.9\.5\-mc1\.20\.1\.jar)
+- [Farmer's Delight](https://www.curseforge.com/projects/398521) [1\.20\.1\-1\.2\.11] by vectorwing (FarmersDelight\-1\.20\.1\-1\.2\.11\.jar)
 - [Ferrite Core](https://modrinth.com/mod/uXXizFIs) [6\.0\.1] by malte0811 (ferritecore\-6\.0\.1\-forge\.jar)
 - [Forgified Fabric API](https://modrinth.com/mod/Aqlf1Shp) [0\.92\.6\+1\.11\.14\+1\.20\.1] by FabricMC, Sinytra (fabric\-api\-0\.92\.6\+1\.11\.14\+1\.20\.1\.jar)
 - [Jade](https://modrinth.com/mod/nvQzSEkH) [11\.13\.2\+forge] by Snownee (Jade\-1\.20\.1\-Forge\-11\.13\.2\.jar)
