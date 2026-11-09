@@ -16,6 +16,7 @@
 - [Create: More Girder](https://modrinth.com/mod/sPg2LVAd) [2\.3\.0] by Agent772 (create\-more\-girder\-2\.3\.0\-neo\.jar)
 - [Create: Numismatics](https://modrinth.com/mod/Jdbbtt0i) [1\.1\.0\+neoforge\-mc1\.21\.1] by IThundxr, Violet, Pink, Slimeist, Razziel (CreateNumismatics\-1\.1\.0\+neoforge\-mc1\.21\.1\.jar)
 - [Create: Steam 'n' Rails 1\.21\.1](https://modrinth.com/mod/L3Jv0QZI) [0\.3\.0\-beta\.2\+neoforge\-mc1\.21\.1] by PoppyBlossom, Chameleon538, gblfxt (railways\-0\.3\.0\-beta\.2\+neoforge\-mc1\.21\.1\.jar)
+- [Create: Transit Tickets](https://modrinth.com/mod/6BITJSVi) [1\.0\.1\-c6] by rslover521 (create\_transit\_tickets\-neoforge\-1\.21\.1\-1\.0\.1\-c6\.jar)
 - [Curios API](https://modrinth.com/mod/vvuO3ImH) [9\.5\.1\+1\.21\.1] by C4 (curios\-neoforge\-9\.5\.1\+1\.21\.1\.jar)
 - [Customizable Player Models](https://modrinth.com/mod/h1E7sQNL) [\-] by tom5454 (CustomPlayerModels\-1\.21\-0\.6\.27a\.jar)
 - [Distant Horizons](https://modrinth.com/mod/uCdwusMi) [3\.3\.1] by James Seibel, Leonardo Amato, Cola, coolGi, Ran, Leetom, pshsh (DistantHorizons\-3\.3\.1\-1\.21\.1\-fabric\-neoforge\.jar)
